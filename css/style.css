@@ -44,14 +44,14 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-width: 0px 0px 2px 5px;
+    border-width: 3px 3px 2px 5px;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5px 0px 0px;
+    border-width: 2px 5px 3px 3px;
 }
 
 .blue h2 {
@@ -62,7 +62,7 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-width: 0px 0px 2px 5px;
+    border-width: 3px 3px 2px 5px;
 }
 
 .yellow p {
@@ -73,7 +73,7 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 2px 5px 0px 0px;
+    border-width: 2px 5px 3px 3px;
 }
 
 footer {

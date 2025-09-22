@@ -10,6 +10,7 @@ a {
 }
 
 *:focus {
+    outline: none;
     border: 6px dashed #417243;
 }
 

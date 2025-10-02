@@ -19,6 +19,7 @@ h2 {
 p {
     font-size: 24px;
     padding: 10px 0px 0px 10px;
+    color: #C4C4C4;
 }
 
 img {
@@ -52,6 +53,7 @@ div {
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 3px 3px;
+    color: #C4C4C4;
 }
 
 .blue h2 {
